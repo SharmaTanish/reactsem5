@@ -6,6 +6,10 @@ import Class1 from "./components/class1";
 import Class2 from "./components/class2";
 import Class3 from "./components/class3";
 
+import Apis from "./components/apis";
+
+import Form from "./components/form";
+
 const Home = () =>{
   var data =[
   {
@@ -88,6 +92,16 @@ const Home = () =>{
   <Class2/>
 
   <Class3/> */}
+
+  <Apis/>
+
+
+
+
+
+  <Form/>
+
+
 
  
   </>
